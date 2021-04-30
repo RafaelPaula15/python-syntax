@@ -6,4 +6,3 @@ def upper_words(words):
         if word[0] != "e" and word[0] != "h":
             return "WORDS MUST START WITH E OR H"
         print(word.upper())
-
